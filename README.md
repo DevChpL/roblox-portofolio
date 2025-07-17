@@ -41,7 +41,6 @@ I specialize in building modular, reusable systems in Roblox Studio. Whether it'
 ## 📬 Contact
 
 * **GitHub:** [DevChpL](https://github.com/DevChpL)
-* **Discord:** `DevChpL#1234`
-* **Email:** `your.email@example.com`
+* **Discord:** `crosssans8940`
 
 *Feel free to explore the repos and reach out if you’d like to collaborate or commission work!*
