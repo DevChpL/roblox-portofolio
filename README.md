@@ -27,8 +27,6 @@ Below are some of my featured systems and gameplay mechanics.
 
 ---
 
-## 👨‍💻 About Me
-Check out [AboutMe.md](./AboutMe.md) for more on who I am and how I work.
 
 ## 📬 Contact
 Want to work together? Reach out:
