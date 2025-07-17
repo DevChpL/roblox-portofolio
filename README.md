@@ -1,34 +1,38 @@
 # 🧠 Roblox Scripter Portfolio
 
-Welcome! I'm a Roblox developer focused on clean, optimized Lua scripting.  
-Below are some of my featured systems and gameplay mechanics.
+Welcome! I'm DevChpL, a Roblox developer passionate about clean, optimized Lua scripting. Below are some of my featured systems and user interfaces, each hosted in its own GitHub repository for full code access.
 
 ---
 
 ## 💼 Projects
 
-### 🎮 [2D Custom Movement System](./Projects/2D-Custom-Movement-System)
-- Full 2D platformer-style control  
-- Wall climbing, sliding, and double jump  
-- Scripted entirely in Lua
+### 🎮 [2D Custom Movement Game](https://github.com/DevChpL/2D-CustomMovement-Game)
 
-### 🔁 Matchmaking Queue System
-- Supports 1v1, 2v2, solo, and team queues  
-- Automatically creates matches from player pool
+* A side-scrolling movement system with smooth controls.
+* Features include 2D axis locking, wall climbing, double jump, sliding, and speed scaling.
+* Ideal for platformers and custom adventure games.
 
-### 🖥️ UI Showcase
-- Clean and responsive UI examples  
-- Uses TweenService and module-driven design
+### 🧟 [Roblox Horror Main Menu](https://github.com/DevChpL/roblox-horror-main-menu)
 
-### 🧟 Horror Game UI
-- Intense and immersive interface for horror-style games  
-- Includes dynamic heartbeat indicators, flickering prompts, and cinematic black bars  
-- Designed for tension, readability, and player feedback
+* Immersive UI for horror experiences.
+* Includes dynamic heartbeat indicators, flickering prompts, cinematic black bars, and interactive buttons.
+* Designed for tension and seamless player feedback.
+
+### 🔁 [Queuing System (1v1)](https://github.com/DevChpL/Queuing-system-1v1-only-rn-)
+
+* Lightweight matchmaking queue supporting 1v1 duels.
+* Automatically pairs players from a waiting pool and initializes matches.
+* Easily extendable to team-based or free-for-all modes.
 
 ---
 
+## 👨‍💻 About Me
+
+I specialize in building modular, reusable systems in Roblox Studio. Whether it's character mechanics, UI interfaces, or matchmaking logic, I focus on performance and clarity.
 
 ## 📬 Contact
-Want to work together? Reach out:
-- Discord: `crosssans8940`
-- GitHub: [DevChpL](https://github.com/DevChpL)
+
+* **GitHub:** [DevChpL](https://github.com/DevChpL)
+* **Discord:** `crosssans8940`
+
+*Feel free to explore the repos and reach out if you’d like to collaborate or commission work!*
