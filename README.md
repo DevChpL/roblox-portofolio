@@ -26,6 +26,14 @@ Welcome! I'm DevChpL, a Roblox developer passionate about clean, optimized Lua s
 
 ---
 
+### ⚔️ [Combat System](https://github.com/DevChpL/Combat-System)
+
+* VFX Manager for streamlined effect handling.
+* 5‑hit melee combat combo system.
+* Dash mechanic for quick bursts of movement.
+
+---
+
 ## 👨‍💻 About Me
 
 I specialize in building modular, reusable systems in Roblox Studio. Whether it's character mechanics, UI interfaces, or matchmaking logic, I focus on performance and clarity.
@@ -33,6 +41,7 @@ I specialize in building modular, reusable systems in Roblox Studio. Whether it'
 ## 📬 Contact
 
 * **GitHub:** [DevChpL](https://github.com/DevChpL)
-* **Discord:** `crosssans8940`
+* **Discord:** `DevChpL#1234`
+* **Email:** `your.email@example.com`
 
 *Feel free to explore the repos and reach out if you’d like to collaborate or commission work!*
