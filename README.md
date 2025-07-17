@@ -32,5 +32,5 @@ Check out [AboutMe.md](./AboutMe.md) for more on who I am and how I work.
 
 ## 📬 Contact
 Want to work together? Reach out:
-- Discord: `YourDiscord#1234`
-- GitHub: [YourUsername](https://github.com/YourUsername)
+- Discord: `crosssans8940`
+- GitHub: [DevChpL](https://github.com/DevChpL)
