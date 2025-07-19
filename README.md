@@ -26,7 +26,7 @@ Welcome! I'm DevChpL, a Roblox developer passionate about clean, optimized Lua s
 - 5‑hit melee combat combo system.  
 - Dash mechanic for quick bursts of movement.
 
-### 👊 [Hand Hitbox System](https://github.com/DevChpL/Hand-Hitbox-System)
+### 👊 [Hand Hitbox System](https://github.com/DevChpL/HandMelee_Raycast_Hitbox)
 - Modular hitbox framework using `RigidConstraint` and attachments.  
 - Configurable limbs, offsets, and raycast parameters via `Config.lua`.  
 - Includes `PartFactory`, `AttachmentHelper`, `ConstraintHelper`, and `HitboxManager` modules.  
